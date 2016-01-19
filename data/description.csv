@@ -1,6 +1,6 @@
 label,sublabel,description,styles,bgcolor
-焼却,,,img/moyasu02.svg,#6495ed
-びん,,,img/bin02.svg,#87ceeb
+焼却,,,img/moyasu02.svg,#0000ff
+びん,,,img/bin02.svg,#1e90ff
 破砕,,,img/moyasanai.svg,#8a2be2
 粗大,,,img/moyasanai02.svg,#7C3F13
 缶類,,,img/moyasanai.svg,#808080
@@ -8,5 +8,5 @@ label,sublabel,description,styles,bgcolor
 プラ,,,img/shigen.svg,#ff69b4
 雑誌・雑紙,,,img/moyasanai02.svg,#C7B001
 新聞・広告,,,img/moyasanai02.svg,#C09F4B
-ペットボトル類,,,img/shigen02.svg,#D991C8
+ペットボトル類,,,img/shigen02.svg,#008000
 段ボール,,,img/moyasanai02.svg,#cd853f
